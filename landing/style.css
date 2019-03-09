@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+	background-color: white;
+	color: #2374AB
+	font-size: 45px;
+    font-family: 'Noticia Text', serif;
+    }
+    p{
+    	font-family: 'Cantarell', sans-serif;
+    	color:#FF6978;
+    	font-weight:lighter;
+    	font-size: 22px;
+    }
+    a {
+    	color:#352D39;
+    }
+    a:hover {
+    	text-decoration: none;
+    	color:#FFFCF9;
+    }
+
+    #banner{
+    	text-align: center;
+    	background-image: url("https://images.unsplash.com/photo-1488554378835-f7acf46e6c98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80");
+    	background-size; cover;
+    	padding: 150px;
+    	color: white;
+    	text-shadow; 1px 1px 5px black;
+    }
+
+    .card{  
+    	padding: 50px;
+    	font-weight: lighter;
+    }
+
+    	background-color: #2374AB
+
+    #banner h1 {
+    	color: white;
+    	font-size: 50px;
+    }
+    #banner p {
+    	color: white;
+    	opacity: 0.8;
+    	font-size: 50px;
+    	font-weight: lighter;
+    }
+    .card{
+    	padding: 20px
+    }
+
+    #footer a {
+    	color: darkgrey;
+    	font-size: 45px;
+    }
+    #footer a:hover {
+    	color:white;
+    }
